@@ -43,9 +43,6 @@ public class FirstLesson {
     }
 }
 
-
-
-
 // TRASH
 
 /*package week1;
