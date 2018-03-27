@@ -1,4 +1,4 @@
-package Homework;
+package Homework5;
 
 public class Aircraft {
     public double maxSpeed; // Glider 65kmh, prop 700kmh, Turbo Jet non hyp 900 kmh, Turbo Jet hyp  2000 kmh
